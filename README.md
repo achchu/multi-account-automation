@@ -1,4 +1,4 @@
-# Perkbbox QA Challenge
+# Perkbox QA Challenge
 
 Automation suite validating the multi account login feature
 
