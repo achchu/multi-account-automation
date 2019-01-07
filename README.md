@@ -20,3 +20,4 @@ mvn clean test
 ```
 
 The tests can also be run through the IDE by running the RunCucumberTest.java class.
+The task 1 and task 2 results are in the xls file 
